@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
+*.log
+candidates/c530_complementary_bin_operator_nmf/phase_b/massbank_2026_03_fixed/
+candidates/c530_complementary_bin_operator_nmf/phase_b/real_raman_oil_data/
+**/results_*/
+**/results/
