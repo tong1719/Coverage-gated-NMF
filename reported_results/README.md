@@ -1,6 +1,6 @@
 # Numerical results for the manuscript
 
-These files contain numerical outcomes, not third-party source spectra or generated figures. The experiment scripts and data-preparation instructions are in the parent repository. The files correspond to the version of the manuscript titled *Operator-coupled Poisson NMF with acquisition-coverage diagnostics for unpaired binned spectra*.
+These files contain numerical outcomes, not third-party source spectra or generated figures. The experiment scripts and data-preparation instructions are in the parent repository. Script paths in the table below are relative to `candidates/c530_complementary_bin_operator_nmf/`. The files correspond to the version of the manuscript titled *Operator-coupled Poisson NMF with acquisition-coverage diagnostics for unpaired binned spectra*.
 
 | File | Manuscript use | Producing script |
 |---|---|---|
