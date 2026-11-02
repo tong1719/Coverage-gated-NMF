@@ -1,0 +1,1634 @@
+[
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53300,
+    "method": "uniform_backproject",
+    "runtime": 0.6121854000000001,
+    "basis_cosine": 0.3454280991449805,
+    "fine_nmse": 0.7860477609569585,
+    "heldout_nmse": 0.7829512313115286,
+    "stability": 0.8702165795667159
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53300,
+    "method": "separate_arithmetic",
+    "runtime": 0.2478851999999998,
+    "basis_cosine": 0.5828707527056802,
+    "fine_nmse": 0.6736873504304032,
+    "heldout_nmse": 0.6708980685025658,
+    "stability": 0.8702165795667159
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53300,
+    "method": "wrong_operator",
+    "runtime": 11.9499253,
+    "basis_cosine": 0.2456731363806446,
+    "fine_nmse": 1.131552211188193,
+    "heldout_nmse": 0.7902580747420326,
+    "stability": 0.8702165795667159
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53300,
+    "method": "single_correct",
+    "runtime": 3.9834901999999985,
+    "basis_cosine": 0.8596041674300332,
+    "fine_nmse": 0.1611754581608017,
+    "heldout_nmse": 0.20187185132410337,
+    "stability": 0.8702165795667159
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53300,
+    "method": "c530_certified_operator",
+    "runtime": 24.0730968,
+    "basis_cosine": 0.9965340225180607,
+    "fine_nmse": 0.0017354725951506996,
+    "heldout_nmse": 0.002103142574473526,
+    "stability": 0.8702165795667159
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53300,
+    "method": "fine_count_oracle",
+    "runtime": 1.150197300000002,
+    "basis_cosine": 0.9695676403714566,
+    "fine_nmse": 0.0015565693658129843,
+    "heldout_nmse": 0.0019497885856404054,
+    "stability": 0.8702165795667159
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53301,
+    "method": "uniform_backproject",
+    "runtime": 0.9029296000000002,
+    "basis_cosine": 0.3458139462851627,
+    "fine_nmse": 0.7837888244750015,
+    "heldout_nmse": 0.7762841083897973,
+    "stability": 0.8381431716701928
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53301,
+    "method": "separate_arithmetic",
+    "runtime": 0.21708819999999918,
+    "basis_cosine": 0.5870961451777754,
+    "fine_nmse": 0.6733830786372375,
+    "heldout_nmse": 0.6715823646958716,
+    "stability": 0.8381431716701928
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53301,
+    "method": "wrong_operator",
+    "runtime": 11.761592499999999,
+    "basis_cosine": 0.24819860300824076,
+    "fine_nmse": 1.1235280171283566,
+    "heldout_nmse": 0.7786035710780077,
+    "stability": 0.8381431716701928
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53301,
+    "method": "single_correct",
+    "runtime": 3.883798299999995,
+    "basis_cosine": 0.748848355212638,
+    "fine_nmse": 0.109928210247245,
+    "heldout_nmse": 0.08894659510384426,
+    "stability": 0.8381431716701928
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53301,
+    "method": "c530_certified_operator",
+    "runtime": 23.753585900000004,
+    "basis_cosine": 0.9949068936125566,
+    "fine_nmse": 0.0018471530378782503,
+    "heldout_nmse": 0.0018707426401020852,
+    "stability": 0.8381431716701928
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53301,
+    "method": "fine_count_oracle",
+    "runtime": 1.8179164999999955,
+    "basis_cosine": 0.9865270417897712,
+    "fine_nmse": 0.0020408682754574363,
+    "heldout_nmse": 0.0016805830730250162,
+    "stability": 0.8381431716701928
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53302,
+    "method": "uniform_backproject",
+    "runtime": 0.9461617999999987,
+    "basis_cosine": 0.3471155328712381,
+    "fine_nmse": 0.7820711362604378,
+    "heldout_nmse": 0.7781760626915755,
+    "stability": 0.8801331316903273
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53302,
+    "method": "separate_arithmetic",
+    "runtime": 0.2974260000000015,
+    "basis_cosine": 0.5913871532204487,
+    "fine_nmse": 0.6750891347574555,
+    "heldout_nmse": 0.6721066383944032,
+    "stability": 0.8801331316903273
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53302,
+    "method": "wrong_operator",
+    "runtime": 11.919898900000007,
+    "basis_cosine": 0.2436715891579566,
+    "fine_nmse": 1.1125212835298777,
+    "heldout_nmse": 0.7642884146818173,
+    "stability": 0.8801331316903273
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53302,
+    "method": "single_correct",
+    "runtime": 3.9423417,
+    "basis_cosine": 0.8282931207868979,
+    "fine_nmse": 0.0028005713184286146,
+    "heldout_nmse": 0.00284044978723809,
+    "stability": 0.8801331316903273
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53302,
+    "method": "c530_certified_operator",
+    "runtime": 23.595525599999988,
+    "basis_cosine": 0.9931834892621209,
+    "fine_nmse": 0.0018462516164423285,
+    "heldout_nmse": 0.0019411596646251744,
+    "stability": 0.8801331316903273
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53302,
+    "method": "fine_count_oracle",
+    "runtime": 1.2982805999999982,
+    "basis_cosine": 0.9719612031643399,
+    "fine_nmse": 0.001646346642362365,
+    "heldout_nmse": 0.0016322698083094964,
+    "stability": 0.8801331316903273
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53303,
+    "method": "uniform_backproject",
+    "runtime": 0.9662178999999895,
+    "basis_cosine": 0.3504854022759424,
+    "fine_nmse": 0.7809554224599539,
+    "heldout_nmse": 0.7859076290927747,
+    "stability": 0.8363159310995348
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53303,
+    "method": "separate_arithmetic",
+    "runtime": 0.24606049999999868,
+    "basis_cosine": 0.5910126050278981,
+    "fine_nmse": 0.6725266382217134,
+    "heldout_nmse": 0.671518819259377,
+    "stability": 0.8363159310995348
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53303,
+    "method": "wrong_operator",
+    "runtime": 11.823618799999991,
+    "basis_cosine": 0.2621395644636349,
+    "fine_nmse": 1.1039078116061025,
+    "heldout_nmse": 0.7532292229652567,
+    "stability": 0.8363159310995348
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53303,
+    "method": "single_correct",
+    "runtime": 3.9244884999999954,
+    "basis_cosine": 0.8838803459430561,
+    "fine_nmse": 0.019416639826491913,
+    "heldout_nmse": 0.01959411027912118,
+    "stability": 0.8363159310995348
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53303,
+    "method": "c530_certified_operator",
+    "runtime": 23.52685059999999,
+    "basis_cosine": 0.9962565688941796,
+    "fine_nmse": 0.001966680768622057,
+    "heldout_nmse": 0.0016900959068010615,
+    "stability": 0.8363159310995348
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "standard",
+    "seed": 53303,
+    "method": "fine_count_oracle",
+    "runtime": 1.8132889999999975,
+    "basis_cosine": 0.9979199630995815,
+    "fine_nmse": 0.0016488676179867304,
+    "heldout_nmse": 0.0012501730624445676,
+    "stability": 0.8363159310995348
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53300,
+    "method": "uniform_backproject",
+    "runtime": 1.7910339999999962,
+    "basis_cosine": 0.3764059964855089,
+    "fine_nmse": 0.7822571823604465,
+    "heldout_nmse": 0.7632413856451405,
+    "stability": 0.8925250103615275
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53300,
+    "method": "separate_arithmetic",
+    "runtime": 0.28761450000001787,
+    "basis_cosine": 0.5938757304805127,
+    "fine_nmse": 0.6725177941035099,
+    "heldout_nmse": 0.674835104591923,
+    "stability": 0.8925250103615275
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53300,
+    "method": "wrong_operator",
+    "runtime": 11.811115899999976,
+    "basis_cosine": 0.2529300704041742,
+    "fine_nmse": 1.109036583341823,
+    "heldout_nmse": 0.7573120529066011,
+    "stability": 0.8925250103615275
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53300,
+    "method": "single_correct",
+    "runtime": 3.9826633999999785,
+    "basis_cosine": 0.8524620275824535,
+    "fine_nmse": 0.18314392487888204,
+    "heldout_nmse": 0.1482497575646995,
+    "stability": 0.8925250103615275
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53300,
+    "method": "c530_certified_operator",
+    "runtime": 23.816944000000007,
+    "basis_cosine": 0.975176443512586,
+    "fine_nmse": 0.01626469326829147,
+    "heldout_nmse": 0.018676725061742228,
+    "stability": 0.8925250103615275
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53300,
+    "method": "fine_count_oracle",
+    "runtime": 1.004484099999985,
+    "basis_cosine": 0.9712321057441281,
+    "fine_nmse": 0.005162455918738087,
+    "heldout_nmse": 0.006290395174684303,
+    "stability": 0.8925250103615275
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53301,
+    "method": "uniform_backproject",
+    "runtime": 0.6503792000000033,
+    "basis_cosine": 0.43628173119995817,
+    "fine_nmse": 0.7615264165964785,
+    "heldout_nmse": 0.7327944876031236,
+    "stability": 0.8857375411167799
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53301,
+    "method": "separate_arithmetic",
+    "runtime": 0.36388750000000414,
+    "basis_cosine": 0.5949781864830206,
+    "fine_nmse": 0.6731483876021486,
+    "heldout_nmse": 0.6747290347238427,
+    "stability": 0.8857375411167799
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53301,
+    "method": "wrong_operator",
+    "runtime": 11.90358950000001,
+    "basis_cosine": 0.2588822324995182,
+    "fine_nmse": 1.1047716884632155,
+    "heldout_nmse": 0.7609627016668353,
+    "stability": 0.8857375411167799
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53301,
+    "method": "single_correct",
+    "runtime": 3.9512371000000144,
+    "basis_cosine": 0.8177679847592187,
+    "fine_nmse": 0.04987756570803564,
+    "heldout_nmse": 0.02911420207985028,
+    "stability": 0.8857375411167799
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53301,
+    "method": "c530_certified_operator",
+    "runtime": 23.709109499999983,
+    "basis_cosine": 0.9936145660987473,
+    "fine_nmse": 0.004670033900080971,
+    "heldout_nmse": 0.004302394436505221,
+    "stability": 0.8857375411167799
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53301,
+    "method": "fine_count_oracle",
+    "runtime": 1.7974746000000152,
+    "basis_cosine": 0.9949384608617663,
+    "fine_nmse": 0.005224842853446902,
+    "heldout_nmse": 0.004124144982911014,
+    "stability": 0.8857375411167799
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53302,
+    "method": "uniform_backproject",
+    "runtime": 0.8551131000000112,
+    "basis_cosine": 0.43421059666203804,
+    "fine_nmse": 0.7622367528435432,
+    "heldout_nmse": 0.7384307208946269,
+    "stability": 0.9131723648342217
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53302,
+    "method": "separate_arithmetic",
+    "runtime": 0.23853869999999233,
+    "basis_cosine": 0.5820084577375223,
+    "fine_nmse": 0.6741755109489035,
+    "heldout_nmse": 0.6737263250459217,
+    "stability": 0.9131723648342217
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53302,
+    "method": "wrong_operator",
+    "runtime": 11.880871200000001,
+    "basis_cosine": 0.11472837476216022,
+    "fine_nmse": 1.2371917696667585,
+    "heldout_nmse": 0.9893453749256783,
+    "stability": 0.9131723648342217
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53302,
+    "method": "single_correct",
+    "runtime": 3.975792800000022,
+    "basis_cosine": 0.9837495499307988,
+    "fine_nmse": 0.004844083533126921,
+    "heldout_nmse": 0.004133265428424744,
+    "stability": 0.9131723648342217
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53302,
+    "method": "c530_certified_operator",
+    "runtime": 23.760606600000017,
+    "basis_cosine": 0.9884416248909598,
+    "fine_nmse": 0.0049246830843516125,
+    "heldout_nmse": 0.0041979805989706374,
+    "stability": 0.9131723648342217
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53302,
+    "method": "fine_count_oracle",
+    "runtime": 0.9442601999999738,
+    "basis_cosine": 0.9676063810888245,
+    "fine_nmse": 0.005172921954989217,
+    "heldout_nmse": 0.004317192380702413,
+    "stability": 0.9131723648342217
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53303,
+    "method": "uniform_backproject",
+    "runtime": 0.8167801000000168,
+    "basis_cosine": 0.3488113221455111,
+    "fine_nmse": 0.7814616724329058,
+    "heldout_nmse": 0.7774825901116145,
+    "stability": 0.8952033521405127
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53303,
+    "method": "separate_arithmetic",
+    "runtime": 0.28312729999998965,
+    "basis_cosine": 0.5859817709108903,
+    "fine_nmse": 0.6737497562843441,
+    "heldout_nmse": 0.6728492802213215,
+    "stability": 0.8952033521405127
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53303,
+    "method": "wrong_operator",
+    "runtime": 11.911262799999975,
+    "basis_cosine": 0.25541837832479075,
+    "fine_nmse": 1.1132495463861958,
+    "heldout_nmse": 0.7607608397586967,
+    "stability": 0.8952033521405127
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53303,
+    "method": "single_correct",
+    "runtime": 3.95928710000004,
+    "basis_cosine": 0.8837641187396181,
+    "fine_nmse": 0.027021317334182088,
+    "heldout_nmse": 0.01959329365811705,
+    "stability": 0.8952033521405127
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53303,
+    "method": "c530_certified_operator",
+    "runtime": 23.770745299999987,
+    "basis_cosine": 0.9926982633056696,
+    "fine_nmse": 0.004695804867645096,
+    "heldout_nmse": 0.003973191807024107,
+    "stability": 0.8952033521405127
+  },
+  {
+    "panel": 0,
+    "accessions": [
+      "MSBNK-AAFC-AC000008",
+      "MSBNK-AAFC-AC000009",
+      "MSBNK-AAFC-AC000010",
+      "MSBNK-AAFC-AC000015"
+    ],
+    "depth": "low",
+    "seed": 53303,
+    "method": "fine_count_oracle",
+    "runtime": 1.7337087000000224,
+    "basis_cosine": 0.9983769675547066,
+    "fine_nmse": 0.004298985905172918,
+    "heldout_nmse": 0.0035814626671483375,
+    "stability": 0.8952033521405127
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53300,
+    "method": "uniform_backproject",
+    "runtime": 1.1461178999999788,
+    "basis_cosine": 0.3481062946290135,
+    "fine_nmse": 0.780077102330832,
+    "heldout_nmse": 0.767727837954037,
+    "stability": 0.866799362054797
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53300,
+    "method": "separate_arithmetic",
+    "runtime": 0.18619169999999485,
+    "basis_cosine": 0.5870595934831028,
+    "fine_nmse": 0.6784892001184294,
+    "heldout_nmse": 0.6807960169545305,
+    "stability": 0.866799362054797
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53300,
+    "method": "wrong_operator",
+    "runtime": 11.845731600000022,
+    "basis_cosine": 0.13285271416442962,
+    "fine_nmse": 1.1916925858304028,
+    "heldout_nmse": 0.7305894672804243,
+    "stability": 0.866799362054797
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53300,
+    "method": "single_correct",
+    "runtime": 3.9951550999999768,
+    "basis_cosine": 0.9967508964326761,
+    "fine_nmse": 0.00194839051821935,
+    "heldout_nmse": 0.0016328957875646724,
+    "stability": 0.866799362054797
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53300,
+    "method": "c530_certified_operator",
+    "runtime": 23.95420899999999,
+    "basis_cosine": 0.9984465244800542,
+    "fine_nmse": 0.0019216356006453096,
+    "heldout_nmse": 0.0016098240871666755,
+    "stability": 0.866799362054797
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53300,
+    "method": "fine_count_oracle",
+    "runtime": 1.0064932999999883,
+    "basis_cosine": 0.9985216237799928,
+    "fine_nmse": 0.0016675167973522224,
+    "heldout_nmse": 0.001451626469101807,
+    "stability": 0.866799362054797
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53301,
+    "method": "uniform_backproject",
+    "runtime": 0.48420479999998634,
+    "basis_cosine": 0.34948730348161816,
+    "fine_nmse": 0.7932841541883493,
+    "heldout_nmse": 0.7763634462145844,
+    "stability": 0.9108277466336944
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53301,
+    "method": "separate_arithmetic",
+    "runtime": 0.18640270000003056,
+    "basis_cosine": 0.5886033926034041,
+    "fine_nmse": 0.6769966928128679,
+    "heldout_nmse": 0.6777911426363211,
+    "stability": 0.9108277466336944
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53301,
+    "method": "wrong_operator",
+    "runtime": 11.99352970000001,
+    "basis_cosine": 0.1281668641983997,
+    "fine_nmse": 1.168498279533255,
+    "heldout_nmse": 0.6961830746351504,
+    "stability": 0.9108277466336944
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53301,
+    "method": "single_correct",
+    "runtime": 3.9776780999999914,
+    "basis_cosine": 0.9988604900607099,
+    "fine_nmse": 0.0020245322581237744,
+    "heldout_nmse": 0.002363586541871847,
+    "stability": 0.9108277466336944
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53301,
+    "method": "c530_certified_operator",
+    "runtime": 23.857480599999974,
+    "basis_cosine": 0.9986485250052737,
+    "fine_nmse": 0.0018476585322008431,
+    "heldout_nmse": 0.002187548795580419,
+    "stability": 0.9108277466336944
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53301,
+    "method": "fine_count_oracle",
+    "runtime": 0.822783099999981,
+    "basis_cosine": 0.9979635720515176,
+    "fine_nmse": 0.0015630702179530835,
+    "heldout_nmse": 0.0018789546311759166,
+    "stability": 0.9108277466336944
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53302,
+    "method": "uniform_backproject",
+    "runtime": 0.6702262000000019,
+    "basis_cosine": 0.27072051733004776,
+    "fine_nmse": 0.810777474799251,
+    "heldout_nmse": 0.802738782912395,
+    "stability": 0.8779022011764089
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53302,
+    "method": "separate_arithmetic",
+    "runtime": 0.17144089999999323,
+    "basis_cosine": 0.5879106701900306,
+    "fine_nmse": 0.6771353112658689,
+    "heldout_nmse": 0.6772011100516591,
+    "stability": 0.8779022011764089
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53302,
+    "method": "wrong_operator",
+    "runtime": 11.980082399999958,
+    "basis_cosine": 0.1873900558521568,
+    "fine_nmse": 1.1592275981938627,
+    "heldout_nmse": 0.5992102656485453,
+    "stability": 0.8779022011764089
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53302,
+    "method": "single_correct",
+    "runtime": 3.9225122000000283,
+    "basis_cosine": 0.9973725190032001,
+    "fine_nmse": 0.0016120273424976971,
+    "heldout_nmse": 0.002073830121592899,
+    "stability": 0.8779022011764089
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53302,
+    "method": "c530_certified_operator",
+    "runtime": 23.874728799999957,
+    "basis_cosine": 0.9985040153206778,
+    "fine_nmse": 0.0016212771652330399,
+    "heldout_nmse": 0.00170036675251495,
+    "stability": 0.8779022011764089
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53302,
+    "method": "fine_count_oracle",
+    "runtime": 1.0909895000000347,
+    "basis_cosine": 0.9980851809948504,
+    "fine_nmse": 0.0013217229480832102,
+    "heldout_nmse": 0.002105203377843295,
+    "stability": 0.8779022011764089
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53303,
+    "method": "uniform_backproject",
+    "runtime": 0.5777510000000348,
+    "basis_cosine": 0.3571140725127154,
+    "fine_nmse": 0.7873754101697004,
+    "heldout_nmse": 0.8001936774156742,
+    "stability": 0.9073044450335797
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53303,
+    "method": "separate_arithmetic",
+    "runtime": 0.21708730000000287,
+    "basis_cosine": 0.5858809075898957,
+    "fine_nmse": 0.678061887973949,
+    "heldout_nmse": 0.6779850961540552,
+    "stability": 0.9073044450335797
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53303,
+    "method": "wrong_operator",
+    "runtime": 11.930640500000038,
+    "basis_cosine": 0.142860832334625,
+    "fine_nmse": 1.1763619936879044,
+    "heldout_nmse": 0.6866826157032332,
+    "stability": 0.9073044450335797
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53303,
+    "method": "single_correct",
+    "runtime": 3.9211293000000182,
+    "basis_cosine": 0.694175372447278,
+    "fine_nmse": 0.18474535239060216,
+    "heldout_nmse": 0.1878323677070741,
+    "stability": 0.9073044450335797
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53303,
+    "method": "c530_certified_operator",
+    "runtime": 23.76110030000001,
+    "basis_cosine": 0.9983575755791056,
+    "fine_nmse": 0.0017687066583942845,
+    "heldout_nmse": 0.0019451961717187002,
+    "stability": 0.9073044450335797
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "standard",
+    "seed": 53303,
+    "method": "fine_count_oracle",
+    "runtime": 1.065030199999967,
+    "basis_cosine": 0.9985071904636287,
+    "fine_nmse": 0.0016829346467253552,
+    "heldout_nmse": 0.001829768392304637,
+    "stability": 0.9073044450335797
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53300,
+    "method": "uniform_backproject",
+    "runtime": 0.6269795000000045,
+    "basis_cosine": 0.3481727637408407,
+    "fine_nmse": 0.7873902146959469,
+    "heldout_nmse": 0.7920750440580603,
+    "stability": 0.8187048425278406
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53300,
+    "method": "separate_arithmetic",
+    "runtime": 0.19389649999999392,
+    "basis_cosine": 0.5880583133510586,
+    "fine_nmse": 0.6767184473560939,
+    "heldout_nmse": 0.6781369393761209,
+    "stability": 0.8187048425278406
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53300,
+    "method": "wrong_operator",
+    "runtime": 11.862558400000069,
+    "basis_cosine": 0.19006536198987523,
+    "fine_nmse": 1.1745901139602193,
+    "heldout_nmse": 0.6147221799740409,
+    "stability": 0.8187048425278406
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53300,
+    "method": "single_correct",
+    "runtime": 4.048230600000011,
+    "basis_cosine": 0.9966719861427881,
+    "fine_nmse": 0.005363642958789634,
+    "heldout_nmse": 0.0046703647374793334,
+    "stability": 0.8187048425278406
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53300,
+    "method": "c530_certified_operator",
+    "runtime": 23.734153400000082,
+    "basis_cosine": 0.9983655274803832,
+    "fine_nmse": 0.005360996329727401,
+    "heldout_nmse": 0.004689746116417232,
+    "stability": 0.8187048425278406
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53300,
+    "method": "fine_count_oracle",
+    "runtime": 0.8492731000000049,
+    "basis_cosine": 0.9975805163079277,
+    "fine_nmse": 0.004808692632040951,
+    "heldout_nmse": 0.003934303462666046,
+    "stability": 0.8187048425278406
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53301,
+    "method": "uniform_backproject",
+    "runtime": 1.2250023000000283,
+    "basis_cosine": 0.34933440446155883,
+    "fine_nmse": 0.7950779486454382,
+    "heldout_nmse": 0.7708126846557586,
+    "stability": 0.8734310730337871
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53301,
+    "method": "separate_arithmetic",
+    "runtime": 0.17262140000002546,
+    "basis_cosine": 0.5876309547758398,
+    "fine_nmse": 0.677696988777988,
+    "heldout_nmse": 0.6807643139990788,
+    "stability": 0.8734310730337871
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53301,
+    "method": "wrong_operator",
+    "runtime": 11.94592979999993,
+    "basis_cosine": 0.17534003057931324,
+    "fine_nmse": 1.1659786916078303,
+    "heldout_nmse": 0.6375370179810237,
+    "stability": 0.8734310730337871
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53301,
+    "method": "single_correct",
+    "runtime": 4.022848500000009,
+    "basis_cosine": 0.9971166850005165,
+    "fine_nmse": 0.004600016501479865,
+    "heldout_nmse": 0.005578294818018286,
+    "stability": 0.8734310730337871
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53301,
+    "method": "c530_certified_operator",
+    "runtime": 23.97485139999992,
+    "basis_cosine": 0.9963691479591023,
+    "fine_nmse": 0.004539558227726727,
+    "heldout_nmse": 0.00546104124820184,
+    "stability": 0.8734310730337871
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53301,
+    "method": "fine_count_oracle",
+    "runtime": 0.8258200999999872,
+    "basis_cosine": 0.9984054272257428,
+    "fine_nmse": 0.00401869873877144,
+    "heldout_nmse": 0.004937881528835476,
+    "stability": 0.8734310730337871
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53302,
+    "method": "uniform_backproject",
+    "runtime": 1.3646100999999362,
+    "basis_cosine": 0.33949531989218795,
+    "fine_nmse": 0.7910688608497392,
+    "heldout_nmse": 0.7707767195323427,
+    "stability": 0.9243475745348038
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53302,
+    "method": "separate_arithmetic",
+    "runtime": 0.19876290000001973,
+    "basis_cosine": 0.5883556591046819,
+    "fine_nmse": 0.6746494392735491,
+    "heldout_nmse": 0.677454987612719,
+    "stability": 0.9243475745348038
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53302,
+    "method": "wrong_operator",
+    "runtime": 11.982206200000064,
+    "basis_cosine": 0.0948841678766638,
+    "fine_nmse": 1.2752328454676267,
+    "heldout_nmse": 0.9298331266559065,
+    "stability": 0.9243475745348038
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53302,
+    "method": "single_correct",
+    "runtime": 3.983672399999932,
+    "basis_cosine": 0.9967574874295515,
+    "fine_nmse": 0.004791422618638203,
+    "heldout_nmse": 0.005417143239416425,
+    "stability": 0.9243475745348038
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53302,
+    "method": "c530_certified_operator",
+    "runtime": 23.900574699999993,
+    "basis_cosine": 0.9966318752097435,
+    "fine_nmse": 0.004807017300751366,
+    "heldout_nmse": 0.005512333465096475,
+    "stability": 0.9243475745348038
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53302,
+    "method": "fine_count_oracle",
+    "runtime": 0.6498799999999392,
+    "basis_cosine": 0.9968562615480951,
+    "fine_nmse": 0.004530849312943478,
+    "heldout_nmse": 0.005355348294234586,
+    "stability": 0.9243475745348038
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53303,
+    "method": "uniform_backproject",
+    "runtime": 1.3421518999999762,
+    "basis_cosine": 0.351713958999335,
+    "fine_nmse": 0.7851797204190276,
+    "heldout_nmse": 0.7603236988959345,
+    "stability": 0.9037450465550375
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53303,
+    "method": "separate_arithmetic",
+    "runtime": 0.1749650000000429,
+    "basis_cosine": 0.5855678796649518,
+    "fine_nmse": 0.6799046935756768,
+    "heldout_nmse": 0.6798566850223123,
+    "stability": 0.9037450465550375
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53303,
+    "method": "wrong_operator",
+    "runtime": 12.125486499999965,
+    "basis_cosine": 0.13994304793212392,
+    "fine_nmse": 1.200485279939789,
+    "heldout_nmse": 0.7601761090568376,
+    "stability": 0.9037450465550375
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53303,
+    "method": "single_correct",
+    "runtime": 4.0173015000000305,
+    "basis_cosine": 0.9945330499047405,
+    "fine_nmse": 0.005432543787985406,
+    "heldout_nmse": 0.00585952124159675,
+    "stability": 0.9037450465550375
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53303,
+    "method": "c530_certified_operator",
+    "runtime": 24.06657229999996,
+    "basis_cosine": 0.9982277967749317,
+    "fine_nmse": 0.004988451587697356,
+    "heldout_nmse": 0.005330525402329488,
+    "stability": 0.9037450465550375
+  },
+  {
+    "panel": 1,
+    "accessions": [
+      "MSBNK-AAFC-AC000020",
+      "MSBNK-AAFC-AC000025",
+      "MSBNK-AAFC-AC000040",
+      "MSBNK-AAFC-AC000045"
+    ],
+    "depth": "low",
+    "seed": 53303,
+    "method": "fine_count_oracle",
+    "runtime": 0.726679699999977,
+    "basis_cosine": 0.997420120258532,
+    "fine_nmse": 0.004655269694563102,
+    "heldout_nmse": 0.0054891148695662174,
+    "stability": 0.9037450465550375
+  }
+]
