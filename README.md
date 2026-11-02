@@ -21,7 +21,7 @@ The MassBank experiment uses twelve AAFC MS/MS records from the MassBank-data `2
 python prepare_data.py --raman PATH_TO_DOWNLOADED_CSV
 ```
 
-This command obtains the pinned MassBank records from the MassBank repository, checks their Git blob hashes, and places them where the experiment scripts expect them. It checks the Raman CSV against the SHA-256 value recorded in `DATA_SOURCES.md` before making a local copy. The downloaded data and generated results are excluded from Git. See `DATA_SOURCES.md` for source details and reuse terms.
+This command obtains the pinned MassBank records from the MassBank repository, checks their Git blob hashes, and places them where the experiment scripts expect them. It checks the Raman CSV against the SHA-256 value recorded in `DATA_SOURCES.md` before making a local copy. The downloaded source data and per-run generated outputs are excluded from Git. Selected cell-level numerical results are included in `reported_results/`. See `DATA_SOURCES.md` for source details and reuse terms.
 
 ## Run the experiments
 
@@ -33,6 +33,8 @@ python run_experiments.py --group revision
 ```
 
 `--group core` reproduces the original controlled, MassBank-derived, and retrospectively binned Raman analyses. `--group revision` runs the additional rank, model-mismatch, baseline, convergence, and solution-stability analyses. These computations include multistart fits and can take considerable time. Use `--dry-run` to list the commands without executing them. Individual scripts can also be run directly. Results are written next to their respective scripts in `results_*` directories.
+
+The `reported_results/README.md` file maps the principal manuscript results to the generating scripts and identifies the settings for the additional analyses.
 
 The Raman analysis uses retrospective binning of one measured dataset. Its allocation cells are repeated computational conditions, not independent chemical batches.
 
