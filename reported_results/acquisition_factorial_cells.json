@@ -1,0 +1,1362 @@
+[
+  {
+    "regime": "nominal",
+    "seed": 53400,
+    "arm": "complete",
+    "offsets": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "basis_cosine": 0.9948827141269473,
+    "fine_nmse": 0.02305499073548868,
+    "heldout_nmse": 0.044937869901016274,
+    "stability": 0.9990858692830157,
+    "runtime": 0.5894964,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "nominal",
+    "seed": 53400,
+    "arm": "adjacent_incomplete",
+    "offsets": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "basis_cosine": 0.6028746905904039,
+    "fine_nmse": 0.6351679416590149,
+    "heldout_nmse": 0.722224946985347,
+    "stability": 0.8551977654237047,
+    "runtime": 0.5207769999999998,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "nominal",
+    "seed": 53400,
+    "arm": "alternating_incomplete",
+    "offsets": [
+      0,
+      0,
+      2,
+      2
+    ],
+    "basis_cosine": 0.5454731654897979,
+    "fine_nmse": 0.7623197782540783,
+    "heldout_nmse": 0.8846413388449011,
+    "stability": 0.8211026234583283,
+    "runtime": 0.5315612000000001,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "nominal",
+    "seed": 53400,
+    "arm": "repeated",
+    "offsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "basis_cosine": 0.5035041279491238,
+    "fine_nmse": 0.7033212394606313,
+    "heldout_nmse": 0.7429211735882462,
+    "stability": 0.8656641018602165,
+    "runtime": 0.5289579,
+    "code_cardinality": 24,
+    "relative_rank": 0.25806451612903225
+  },
+  {
+    "regime": "nominal",
+    "seed": 53400,
+    "arm": "fine_count_oracle",
+    "offsets": [],
+    "basis_cosine": 0.9975637197723467,
+    "fine_nmse": NaN,
+    "heldout_nmse": 0.038784832185154744,
+    "stability": NaN,
+    "runtime": 0.029168599999999767,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "nominal",
+    "seed": 53401,
+    "arm": "complete",
+    "offsets": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "basis_cosine": 0.9958131687513606,
+    "fine_nmse": 0.02258812634740571,
+    "heldout_nmse": 0.06956460591763626,
+    "stability": 0.9991527419572015,
+    "runtime": 0.5448664000000001,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "nominal",
+    "seed": 53401,
+    "arm": "adjacent_incomplete",
+    "offsets": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "basis_cosine": 0.6755257331317946,
+    "fine_nmse": 0.5120503223674381,
+    "heldout_nmse": 0.5872252606357321,
+    "stability": 0.798552467541226,
+    "runtime": 0.5447800000000003,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "nominal",
+    "seed": 53401,
+    "arm": "alternating_incomplete",
+    "offsets": [
+      0,
+      0,
+      2,
+      2
+    ],
+    "basis_cosine": 0.6138407109555112,
+    "fine_nmse": 0.6548347692425067,
+    "heldout_nmse": 0.7036776945432553,
+    "stability": 0.7608459529894277,
+    "runtime": 0.5735563999999993,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "nominal",
+    "seed": 53401,
+    "arm": "repeated",
+    "offsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "basis_cosine": 0.5036989746411922,
+    "fine_nmse": 0.7052169001052281,
+    "heldout_nmse": 0.7363040251397899,
+    "stability": 0.8556255886385826,
+    "runtime": 0.5391548000000004,
+    "code_cardinality": 24,
+    "relative_rank": 0.25806451612903225
+  },
+  {
+    "regime": "nominal",
+    "seed": 53401,
+    "arm": "fine_count_oracle",
+    "offsets": [],
+    "basis_cosine": 0.9976750847055096,
+    "fine_nmse": NaN,
+    "heldout_nmse": 0.06281183780303418,
+    "stability": NaN,
+    "runtime": 0.029395800000000527,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "nominal",
+    "seed": 53402,
+    "arm": "complete",
+    "offsets": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "basis_cosine": 0.9960196069696455,
+    "fine_nmse": 0.023688238575659434,
+    "heldout_nmse": 0.06372370175826565,
+    "stability": 0.999257803771349,
+    "runtime": 0.5130640999999994,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "nominal",
+    "seed": 53402,
+    "arm": "adjacent_incomplete",
+    "offsets": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "basis_cosine": 0.6668432200557395,
+    "fine_nmse": 0.5623293013457036,
+    "heldout_nmse": 0.6435460923466854,
+    "stability": 0.8415507833363803,
+    "runtime": 0.5178045000000004,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "nominal",
+    "seed": 53402,
+    "arm": "alternating_incomplete",
+    "offsets": [
+      0,
+      0,
+      2,
+      2
+    ],
+    "basis_cosine": 0.6064996245956956,
+    "fine_nmse": 0.668263124306515,
+    "heldout_nmse": 0.7077268487765898,
+    "stability": 0.8121306491023649,
+    "runtime": 0.5429848000000002,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "nominal",
+    "seed": 53402,
+    "arm": "repeated",
+    "offsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "basis_cosine": 0.5033552753335004,
+    "fine_nmse": 0.7041716360445415,
+    "heldout_nmse": 0.7471618039265846,
+    "stability": 0.8549879272805856,
+    "runtime": 0.4965318999999999,
+    "code_cardinality": 24,
+    "relative_rank": 0.25806451612903225
+  },
+  {
+    "regime": "nominal",
+    "seed": 53402,
+    "arm": "fine_count_oracle",
+    "offsets": [],
+    "basis_cosine": 0.9972083014459607,
+    "fine_nmse": NaN,
+    "heldout_nmse": 0.05904463921342313,
+    "stability": NaN,
+    "runtime": 0.02543550000000039,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "nominal",
+    "seed": 53403,
+    "arm": "complete",
+    "offsets": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "basis_cosine": 0.995811814579977,
+    "fine_nmse": 0.024845726914294087,
+    "heldout_nmse": 0.06919281995195033,
+    "stability": 0.9991915530604172,
+    "runtime": 0.5202676000000004,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "nominal",
+    "seed": 53403,
+    "arm": "adjacent_incomplete",
+    "offsets": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "basis_cosine": 0.669284460048704,
+    "fine_nmse": 0.4802466454075872,
+    "heldout_nmse": 0.5833062215585222,
+    "stability": 0.8008511047058081,
+    "runtime": 0.5149793999999996,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "nominal",
+    "seed": 53403,
+    "arm": "alternating_incomplete",
+    "offsets": [
+      0,
+      0,
+      2,
+      2
+    ],
+    "basis_cosine": 0.7158042403822631,
+    "fine_nmse": 0.48393850432547647,
+    "heldout_nmse": 0.6116054404962168,
+    "stability": 0.815042256023916,
+    "runtime": 0.5488192999999999,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "nominal",
+    "seed": 53403,
+    "arm": "repeated",
+    "offsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "basis_cosine": 0.5039093299358369,
+    "fine_nmse": 0.7015191108422307,
+    "heldout_nmse": 0.7389506893758238,
+    "stability": 0.8502691628851463,
+    "runtime": 0.5322697999999999,
+    "code_cardinality": 24,
+    "relative_rank": 0.25806451612903225
+  },
+  {
+    "regime": "nominal",
+    "seed": 53403,
+    "arm": "fine_count_oracle",
+    "offsets": [],
+    "basis_cosine": 0.9983947167628044,
+    "fine_nmse": NaN,
+    "heldout_nmse": 0.062195779299897926,
+    "stability": NaN,
+    "runtime": 0.023595000000000255,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "low_count",
+    "seed": 53400,
+    "arm": "complete",
+    "offsets": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "basis_cosine": 0.9911147139774235,
+    "fine_nmse": 0.05153773573467539,
+    "heldout_nmse": 0.12355549747494905,
+    "stability": 0.9988605151105642,
+    "runtime": 0.5140867,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "low_count",
+    "seed": 53400,
+    "arm": "adjacent_incomplete",
+    "offsets": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "basis_cosine": 0.5731113653918662,
+    "fine_nmse": 0.7210175134184245,
+    "heldout_nmse": 0.7423941901035312,
+    "stability": 0.8047012150179548,
+    "runtime": 0.5078692,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "low_count",
+    "seed": 53400,
+    "arm": "alternating_incomplete",
+    "offsets": [
+      0,
+      0,
+      2,
+      2
+    ],
+    "basis_cosine": 0.6102080495844839,
+    "fine_nmse": 0.672796615088775,
+    "heldout_nmse": 0.7413914658510138,
+    "stability": 0.7914189827611692,
+    "runtime": 0.5798486,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "low_count",
+    "seed": 53400,
+    "arm": "repeated",
+    "offsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "basis_cosine": 0.5021404942933123,
+    "fine_nmse": 0.7068364444324751,
+    "heldout_nmse": 0.7632061299230645,
+    "stability": 0.8601349398352124,
+    "runtime": 0.5311137000000006,
+    "code_cardinality": 24,
+    "relative_rank": 0.25806451612903225
+  },
+  {
+    "regime": "low_count",
+    "seed": 53400,
+    "arm": "fine_count_oracle",
+    "offsets": [],
+    "basis_cosine": 0.9936258178698041,
+    "fine_nmse": NaN,
+    "heldout_nmse": 0.11114063238732085,
+    "stability": NaN,
+    "runtime": 0.025631999999999877,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "low_count",
+    "seed": 53401,
+    "arm": "complete",
+    "offsets": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "basis_cosine": 0.9942425600591718,
+    "fine_nmse": 0.05348826470706808,
+    "heldout_nmse": 0.09676136767993825,
+    "stability": 0.9733740714851057,
+    "runtime": 0.5329557000000005,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "low_count",
+    "seed": 53401,
+    "arm": "adjacent_incomplete",
+    "offsets": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "basis_cosine": 0.6705104881548607,
+    "fine_nmse": 0.5366627913208558,
+    "heldout_nmse": 0.630126005526658,
+    "stability": 0.7935306077133489,
+    "runtime": 0.5098833000000003,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "low_count",
+    "seed": 53401,
+    "arm": "alternating_incomplete",
+    "offsets": [
+      0,
+      0,
+      2,
+      2
+    ],
+    "basis_cosine": 0.610795035310907,
+    "fine_nmse": 0.6747474805702203,
+    "heldout_nmse": 0.7505127832843587,
+    "stability": 0.8251935573293592,
+    "runtime": 0.5638714999999994,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "low_count",
+    "seed": 53401,
+    "arm": "repeated",
+    "offsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "basis_cosine": 0.5029752083088916,
+    "fine_nmse": 0.7108413564510592,
+    "heldout_nmse": 0.763606246292995,
+    "stability": 0.8589082911524267,
+    "runtime": 0.49467510000000026,
+    "code_cardinality": 24,
+    "relative_rank": 0.25806451612903225
+  },
+  {
+    "regime": "low_count",
+    "seed": 53401,
+    "arm": "fine_count_oracle",
+    "offsets": [],
+    "basis_cosine": 0.9957509715905875,
+    "fine_nmse": NaN,
+    "heldout_nmse": 0.09330713436687652,
+    "stability": NaN,
+    "runtime": 0.021972999999999132,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "low_count",
+    "seed": 53402,
+    "arm": "complete",
+    "offsets": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "basis_cosine": 0.9931809767577053,
+    "fine_nmse": 0.05411951270099097,
+    "heldout_nmse": 0.1213761723144124,
+    "stability": 0.9995487447866882,
+    "runtime": 0.547437200000001,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "low_count",
+    "seed": 53402,
+    "arm": "adjacent_incomplete",
+    "offsets": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "basis_cosine": 0.48492706522242923,
+    "fine_nmse": 0.8171356211350224,
+    "heldout_nmse": 0.9021420120059318,
+    "stability": 0.8500908486664315,
+    "runtime": 0.5402856000000007,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "low_count",
+    "seed": 53402,
+    "arm": "alternating_incomplete",
+    "offsets": [
+      0,
+      0,
+      2,
+      2
+    ],
+    "basis_cosine": 0.7429024780282307,
+    "fine_nmse": 0.47356619725141896,
+    "heldout_nmse": 0.5707079350707777,
+    "stability": 0.8488993644252467,
+    "runtime": 0.5805319999999998,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "low_count",
+    "seed": 53402,
+    "arm": "repeated",
+    "offsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "basis_cosine": 0.5033989145907481,
+    "fine_nmse": 0.7104773687544391,
+    "heldout_nmse": 0.8013497977565521,
+    "stability": 0.8463299515546397,
+    "runtime": 0.5371047999999998,
+    "code_cardinality": 24,
+    "relative_rank": 0.25806451612903225
+  },
+  {
+    "regime": "low_count",
+    "seed": 53402,
+    "arm": "fine_count_oracle",
+    "offsets": [],
+    "basis_cosine": 0.996546118586837,
+    "fine_nmse": NaN,
+    "heldout_nmse": 0.11645015838888624,
+    "stability": NaN,
+    "runtime": 0.02721960000000223,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "low_count",
+    "seed": 53403,
+    "arm": "complete",
+    "offsets": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "basis_cosine": 0.9911271638646416,
+    "fine_nmse": 0.05366787596250995,
+    "heldout_nmse": 0.14383689331956465,
+    "stability": 0.9989096454120041,
+    "runtime": 0.5786196000000032,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "low_count",
+    "seed": 53403,
+    "arm": "adjacent_incomplete",
+    "offsets": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "basis_cosine": 0.5177038307781185,
+    "fine_nmse": 0.7414264759133122,
+    "heldout_nmse": 0.7918174198996801,
+    "stability": 0.8327967457074424,
+    "runtime": 0.543299900000001,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "low_count",
+    "seed": 53403,
+    "arm": "alternating_incomplete",
+    "offsets": [
+      0,
+      0,
+      2,
+      2
+    ],
+    "basis_cosine": 0.6047170751396045,
+    "fine_nmse": 0.6758079032281982,
+    "heldout_nmse": 0.7544761462596702,
+    "stability": 0.8092570411683774,
+    "runtime": 0.5964105999999987,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "low_count",
+    "seed": 53403,
+    "arm": "repeated",
+    "offsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "basis_cosine": 0.5032917430465933,
+    "fine_nmse": 0.7071537922186664,
+    "heldout_nmse": 0.7653485865379421,
+    "stability": 0.8413066866906599,
+    "runtime": 0.5429332000000002,
+    "code_cardinality": 24,
+    "relative_rank": 0.25806451612903225
+  },
+  {
+    "regime": "low_count",
+    "seed": 53403,
+    "arm": "fine_count_oracle",
+    "offsets": [],
+    "basis_cosine": 0.9951903104304168,
+    "fine_nmse": NaN,
+    "heldout_nmse": 0.13103682346953285,
+    "stability": NaN,
+    "runtime": 0.025566300000001263,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "overlap_lines",
+    "seed": 53400,
+    "arm": "complete",
+    "offsets": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "basis_cosine": 0.9950115897640377,
+    "fine_nmse": 0.02431811711958099,
+    "heldout_nmse": 0.057910033810705495,
+    "stability": 0.9966869875445621,
+    "runtime": 0.5025375999999966,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "overlap_lines",
+    "seed": 53400,
+    "arm": "adjacent_incomplete",
+    "offsets": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "basis_cosine": 0.6431551714928939,
+    "fine_nmse": 0.5681272189450954,
+    "heldout_nmse": 0.7111294731291055,
+    "stability": 0.7859884247665118,
+    "runtime": 0.5262267999999999,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "overlap_lines",
+    "seed": 53400,
+    "arm": "alternating_incomplete",
+    "offsets": [
+      0,
+      0,
+      2,
+      2
+    ],
+    "basis_cosine": 0.6078570281122008,
+    "fine_nmse": 0.6382934839717465,
+    "heldout_nmse": 0.6808234499073452,
+    "stability": 0.7934050345015925,
+    "runtime": 0.5452928000000021,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "overlap_lines",
+    "seed": 53400,
+    "arm": "repeated",
+    "offsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "basis_cosine": 0.5033920487213568,
+    "fine_nmse": 0.703870502651118,
+    "heldout_nmse": 0.7841429445238033,
+    "stability": 0.8611349203485594,
+    "runtime": 0.5335234,
+    "code_cardinality": 24,
+    "relative_rank": 0.25806451612903225
+  },
+  {
+    "regime": "overlap_lines",
+    "seed": 53400,
+    "arm": "fine_count_oracle",
+    "offsets": [],
+    "basis_cosine": 0.9969052122697993,
+    "fine_nmse": NaN,
+    "heldout_nmse": 0.05268011268263306,
+    "stability": NaN,
+    "runtime": 0.02633080000000021,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "overlap_lines",
+    "seed": 53401,
+    "arm": "complete",
+    "offsets": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "basis_cosine": 0.9964606631701598,
+    "fine_nmse": 0.021645821898973724,
+    "heldout_nmse": 0.039473859007790005,
+    "stability": 0.9993129841591996,
+    "runtime": 0.5214815000000002,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "overlap_lines",
+    "seed": 53401,
+    "arm": "adjacent_incomplete",
+    "offsets": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "basis_cosine": 0.6222854450249803,
+    "fine_nmse": 0.6113763056701425,
+    "heldout_nmse": 0.794799357915416,
+    "stability": 0.8077818040350953,
+    "runtime": 0.5125153000000005,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "overlap_lines",
+    "seed": 53401,
+    "arm": "alternating_incomplete",
+    "offsets": [
+      0,
+      0,
+      2,
+      2
+    ],
+    "basis_cosine": 0.5695744328896839,
+    "fine_nmse": 0.7588233440936342,
+    "heldout_nmse": 0.8113254120706205,
+    "stability": 0.7914108218933965,
+    "runtime": 0.5356957000000016,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "overlap_lines",
+    "seed": 53401,
+    "arm": "repeated",
+    "offsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "basis_cosine": 0.5036996337407325,
+    "fine_nmse": 0.7055784737972091,
+    "heldout_nmse": 0.7774645343005316,
+    "stability": 0.8578398653748217,
+    "runtime": 0.5145960000000009,
+    "code_cardinality": 24,
+    "relative_rank": 0.25806451612903225
+  },
+  {
+    "regime": "overlap_lines",
+    "seed": 53401,
+    "arm": "fine_count_oracle",
+    "offsets": [],
+    "basis_cosine": 0.9977518946285677,
+    "fine_nmse": NaN,
+    "heldout_nmse": 0.036938459463628816,
+    "stability": NaN,
+    "runtime": 0.03261420000000115,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "overlap_lines",
+    "seed": 53402,
+    "arm": "complete",
+    "offsets": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "basis_cosine": 0.9970159009180559,
+    "fine_nmse": 0.019278367810778085,
+    "heldout_nmse": 0.05132333406987539,
+    "stability": 0.999413367058202,
+    "runtime": 0.5029448999999993,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "overlap_lines",
+    "seed": 53402,
+    "arm": "adjacent_incomplete",
+    "offsets": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "basis_cosine": 0.4683593727271115,
+    "fine_nmse": 0.823468674675941,
+    "heldout_nmse": 0.911316434166541,
+    "stability": 0.84253090704508,
+    "runtime": 0.5636899999999976,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "overlap_lines",
+    "seed": 53402,
+    "arm": "alternating_incomplete",
+    "offsets": [
+      0,
+      0,
+      2,
+      2
+    ],
+    "basis_cosine": 0.6896783189911515,
+    "fine_nmse": 0.5473044404278038,
+    "heldout_nmse": 0.6078440283137087,
+    "stability": 0.8232316444230762,
+    "runtime": 0.5569726999999993,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "overlap_lines",
+    "seed": 53402,
+    "arm": "repeated",
+    "offsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "basis_cosine": 0.3509850496720904,
+    "fine_nmse": 0.9163433909217641,
+    "heldout_nmse": 0.9367285069191806,
+    "stability": 0.6912145453318638,
+    "runtime": 0.5069653999999986,
+    "code_cardinality": 24,
+    "relative_rank": 0.25806451612903225
+  },
+  {
+    "regime": "overlap_lines",
+    "seed": 53402,
+    "arm": "fine_count_oracle",
+    "offsets": [],
+    "basis_cosine": 0.9983961297669538,
+    "fine_nmse": NaN,
+    "heldout_nmse": 0.048492232676537184,
+    "stability": NaN,
+    "runtime": 0.02319089999999946,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "overlap_lines",
+    "seed": 53403,
+    "arm": "complete",
+    "offsets": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "basis_cosine": 0.9960291421399241,
+    "fine_nmse": 0.019932224388948563,
+    "heldout_nmse": 0.057793948240288315,
+    "stability": 0.9980782163611637,
+    "runtime": 0.5379431999999973,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "overlap_lines",
+    "seed": 53403,
+    "arm": "adjacent_incomplete",
+    "offsets": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "basis_cosine": 0.6341065813506382,
+    "fine_nmse": 0.5738907352974145,
+    "heldout_nmse": 0.6613871150864954,
+    "stability": 0.9100208344721028,
+    "runtime": 0.5417489999999994,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "overlap_lines",
+    "seed": 53403,
+    "arm": "alternating_incomplete",
+    "offsets": [
+      0,
+      0,
+      2,
+      2
+    ],
+    "basis_cosine": 0.645613257929647,
+    "fine_nmse": 0.5964260676100568,
+    "heldout_nmse": 0.661545602283393,
+    "stability": 0.7930592153553347,
+    "runtime": 0.5387838999999985,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "overlap_lines",
+    "seed": 53403,
+    "arm": "repeated",
+    "offsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "basis_cosine": 0.5039637113165198,
+    "fine_nmse": 0.7062906017447707,
+    "heldout_nmse": 0.7792590564130539,
+    "stability": 0.844493591353142,
+    "runtime": 0.5340369000000003,
+    "code_cardinality": 24,
+    "relative_rank": 0.25806451612903225
+  },
+  {
+    "regime": "overlap_lines",
+    "seed": 53403,
+    "arm": "fine_count_oracle",
+    "offsets": [],
+    "basis_cosine": 0.9970223222509689,
+    "fine_nmse": NaN,
+    "heldout_nmse": 0.054410612352440414,
+    "stability": NaN,
+    "runtime": 0.02701499999999868,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "weak_component",
+    "seed": 53400,
+    "arm": "complete",
+    "offsets": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "basis_cosine": 0.9709699722368779,
+    "fine_nmse": 0.026181178137403855,
+    "heldout_nmse": 0.05997649140709088,
+    "stability": 0.9721925885453383,
+    "runtime": 0.5214601000000023,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "weak_component",
+    "seed": 53400,
+    "arm": "adjacent_incomplete",
+    "offsets": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "basis_cosine": 0.6004224922896813,
+    "fine_nmse": 0.6842793203840506,
+    "heldout_nmse": 0.721894498780399,
+    "stability": 0.7843412602333806,
+    "runtime": 0.5267142000000007,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "weak_component",
+    "seed": 53400,
+    "arm": "alternating_incomplete",
+    "offsets": [
+      0,
+      0,
+      2,
+      2
+    ],
+    "basis_cosine": 0.6677769695327721,
+    "fine_nmse": 0.5039429425704917,
+    "heldout_nmse": 0.5821379075203269,
+    "stability": 0.8387646066994433,
+    "runtime": 0.5244280000000003,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "weak_component",
+    "seed": 53400,
+    "arm": "repeated",
+    "offsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "basis_cosine": 0.49756960958034857,
+    "fine_nmse": 0.7128439739930508,
+    "heldout_nmse": 0.7788085250555179,
+    "stability": 0.8385173894332687,
+    "runtime": 0.5615743000000002,
+    "code_cardinality": 24,
+    "relative_rank": 0.25806451612903225
+  },
+  {
+    "regime": "weak_component",
+    "seed": 53400,
+    "arm": "fine_count_oracle",
+    "offsets": [],
+    "basis_cosine": 0.9873086419879762,
+    "fine_nmse": NaN,
+    "heldout_nmse": 0.05831342687859644,
+    "stability": NaN,
+    "runtime": 0.02609430000000046,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "weak_component",
+    "seed": 53401,
+    "arm": "complete",
+    "offsets": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "basis_cosine": 0.9665695353420711,
+    "fine_nmse": 0.024594141146892345,
+    "heldout_nmse": 0.04306417198893987,
+    "stability": 0.9256779168591244,
+    "runtime": 0.5327434999999987,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "weak_component",
+    "seed": 53401,
+    "arm": "adjacent_incomplete",
+    "offsets": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "basis_cosine": 0.6338432804223831,
+    "fine_nmse": 0.5868694894956895,
+    "heldout_nmse": 0.6223795873222158,
+    "stability": 0.8401260294372728,
+    "runtime": 0.566497100000003,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "weak_component",
+    "seed": 53401,
+    "arm": "alternating_incomplete",
+    "offsets": [
+      0,
+      0,
+      2,
+      2
+    ],
+    "basis_cosine": 0.6950660877072303,
+    "fine_nmse": 0.5031141720702902,
+    "heldout_nmse": 0.5443332010722709,
+    "stability": 0.8359254715752981,
+    "runtime": 0.5476117000000009,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "weak_component",
+    "seed": 53401,
+    "arm": "repeated",
+    "offsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "basis_cosine": 0.4983403876521236,
+    "fine_nmse": 0.7141474227430934,
+    "heldout_nmse": 0.7409197466833058,
+    "stability": 0.8509436482914547,
+    "runtime": 0.5573046999999995,
+    "code_cardinality": 24,
+    "relative_rank": 0.25806451612903225
+  },
+  {
+    "regime": "weak_component",
+    "seed": 53401,
+    "arm": "fine_count_oracle",
+    "offsets": [],
+    "basis_cosine": 0.991051966938925,
+    "fine_nmse": NaN,
+    "heldout_nmse": 0.03853102468475272,
+    "stability": NaN,
+    "runtime": 0.025119400000001235,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "weak_component",
+    "seed": 53402,
+    "arm": "complete",
+    "offsets": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "basis_cosine": 0.9645578550492326,
+    "fine_nmse": 0.01921989505926595,
+    "heldout_nmse": 0.05039873835321652,
+    "stability": 0.9013794497039943,
+    "runtime": 0.5288604999999968,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "weak_component",
+    "seed": 53402,
+    "arm": "adjacent_incomplete",
+    "offsets": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "basis_cosine": 0.7101035831389639,
+    "fine_nmse": 0.5382787864365418,
+    "heldout_nmse": 0.5824158709270602,
+    "stability": 0.7462395298379034,
+    "runtime": 0.5536981999999995,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "weak_component",
+    "seed": 53402,
+    "arm": "alternating_incomplete",
+    "offsets": [
+      0,
+      0,
+      2,
+      2
+    ],
+    "basis_cosine": 0.44909949133856975,
+    "fine_nmse": 0.8897027179296391,
+    "heldout_nmse": 0.9900455944451443,
+    "stability": 0.7947643112645127,
+    "runtime": 0.5340418999999983,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "weak_component",
+    "seed": 53402,
+    "arm": "repeated",
+    "offsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "basis_cosine": 0.500083587800823,
+    "fine_nmse": 0.7141061431999464,
+    "heldout_nmse": 0.7782189532374884,
+    "stability": 0.8488679175323144,
+    "runtime": 0.5866472000000016,
+    "code_cardinality": 24,
+    "relative_rank": 0.25806451612903225
+  },
+  {
+    "regime": "weak_component",
+    "seed": 53402,
+    "arm": "fine_count_oracle",
+    "offsets": [],
+    "basis_cosine": 0.9928212268127465,
+    "fine_nmse": NaN,
+    "heldout_nmse": 0.04365024531467505,
+    "stability": NaN,
+    "runtime": 0.021077900000001648,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "weak_component",
+    "seed": 53403,
+    "arm": "complete",
+    "offsets": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "basis_cosine": 0.9838531875014792,
+    "fine_nmse": 0.021916621090033117,
+    "heldout_nmse": 0.05367187934225198,
+    "stability": 0.8856029400413837,
+    "runtime": 0.5485401999999979,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  },
+  {
+    "regime": "weak_component",
+    "seed": 53403,
+    "arm": "adjacent_incomplete",
+    "offsets": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "basis_cosine": 0.5097743128197578,
+    "fine_nmse": 0.8045713756481512,
+    "heldout_nmse": 0.8104105370558708,
+    "stability": 0.8181515664731428,
+    "runtime": 0.5617577000000011,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "weak_component",
+    "seed": 53403,
+    "arm": "alternating_incomplete",
+    "offsets": [
+      0,
+      0,
+      2,
+      2
+    ],
+    "basis_cosine": 0.7009829373054053,
+    "fine_nmse": 0.5016339653706968,
+    "heldout_nmse": 0.5530661862200292,
+    "stability": 0.8185615411207361,
+    "runtime": 0.5490078000000054,
+    "code_cardinality": 48,
+    "relative_rank": 0.5053763440860215
+  },
+  {
+    "regime": "weak_component",
+    "seed": 53403,
+    "arm": "repeated",
+    "offsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "basis_cosine": 0.5016567573924849,
+    "fine_nmse": 0.7155815318401506,
+    "heldout_nmse": 0.75943363325191,
+    "stability": 0.8420300172832151,
+    "runtime": 0.5813893999999991,
+    "code_cardinality": 24,
+    "relative_rank": 0.25806451612903225
+  },
+  {
+    "regime": "weak_component",
+    "seed": 53403,
+    "arm": "fine_count_oracle",
+    "offsets": [],
+    "basis_cosine": 0.9933432610258993,
+    "fine_nmse": NaN,
+    "heldout_nmse": 0.04687176826735849,
+    "stability": NaN,
+    "runtime": 0.023533999999997945,
+    "code_cardinality": 96,
+    "relative_rank": 1.0
+  }
+]
